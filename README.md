@@ -3,7 +3,7 @@
 
 Implementacção de uma API web, utilizando o padrão REST, para gerenciamento de câmeras dos nossos clientes.
 
-### Através de sua API deve ser possível:
+### Através da API deve ser possível:
 
 Adicionar novas câmeras,
 Desabilitar uma câmera,
